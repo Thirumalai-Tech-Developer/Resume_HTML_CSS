@@ -2,12 +2,19 @@
     margin: 0%;
 }
 header{
+    #start{
+        text-align: start;
+    }
     height: auto;
     width: 100%;
     background-color: rgb(56, 58, 56);
+    a{
+        color: blue;
+    }
     pre{
         margin-top: 1px;
         color: white;
+        padding-left: 55%;
     }
     h1{
         color: white;
